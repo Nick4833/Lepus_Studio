@@ -1,0 +1,67 @@
+body {
+  font-family: Roboto;
+}
+
+.head {
+  font-family: FFF Forward;
+  color: white;
+}
+
+.navbar-custom {
+  box-shadow: 10px 10px 15px -6px rgba(46,46,46,1);
+}
+
+.carousel-custom {
+  top: 50%;
+  color: red;
+}
+
+.card-hover {
+  border: 0px;
+  transition: 0.5s;
+}
+
+.card-hover:hover {
+  transform: translateY(-10px);
+}
+
+.footer {
+  border: 1px solid #353636;
+}
+
+.social-icon {
+  font-size: 25px;
+  float: right;
+  margin-right: 10px;
+  transition: 0.5s;
+}
+
+.custom-card {
+   
+}
+
+.social-icon:hover {
+  transform: translateY(-5px);
+
+}
+
+.platform-custom {
+  font-size: 14px;
+  color: white;
+  border-bottom: 2px solid #515252;
+}
+
+.custom-button {
+  font-family: Roboto;
+}
+
+.custom-review {
+  color: white;
+  font-size: 15px;
+  border-left: 1px solid #2b2b2b;
+}
+
+.custom-req {
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+}
